@@ -1,0 +1,23 @@
+<configs>
+	<append xpath="/items">
+		<item name="SnufkinPartyPlusStarterKit">
+			<property name="CustomIcon" value="cntWeaponsBagSmall"/><property name="ItemTypeIcon" value="bundle"/>
+			<property name="DescriptionKey" value="SnufkinPartyPlusStarterKitDesc"/>
+			<property name="HoldType" value="45"/>
+			<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="Mcloth"/>
+			<property name="Weight" value="0"/>
+			<property name="EconomicValue" value="100"/>
+			<property name="Group" value="Basics"/>
+			<property class="Action0">
+				<property name="Class" value="OpenBundle"/>
+				<property name="Delay" value="0"/>
+				<property name="Use_time" value="0"/>
+				<property name="Sound_start" value="open_supply_crate"/>
+				<property name="Create_item" value="meleeToolRepairT0StoneAxe,meleeWpnBladeT1HuntingKnife,drinkJarPureMineralWater,foodShamChowder,gunHandgunT1Pistol,ammo9mmBulletBall,gunShotgunT1DoubleBarrel,ammoShotgunShell,gunMGT1AK47,ammo762mmBulletBall,modGunScopeSmall,medicalFirstAidKit,modArmorHelmetLight,meleeToolFlashlight02,resourceRepairKit"/>
+				<property name="Create_item_count" value="1,1,3,3,1,250,1,100,1,150,1,3,1,1,3"/>
+			</property>
+		</item>
+	</append>
+</configs>
