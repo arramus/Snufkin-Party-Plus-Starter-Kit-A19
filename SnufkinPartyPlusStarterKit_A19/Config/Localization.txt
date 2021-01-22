@@ -1,4 +1,4 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english
 
 SnufkinPartyPlusStarterKit,items,item,,,Snufkin Party Plus Starter Kit,,,,,
-SnufkinPartyPlusStarterKitDesc,items,item,,,"After being stunned by the Undertaker, you wake up as naked as the day you were born with nothing but an old leather holdall bulging at the seams. An eery electric shield protected the holdall from scavengers and contains a starter kit to help you begin again. This will ease you into the challenge of a Snufkin Party Plus server and set you back on your path."
+SnufkinPartyPlusStarterKitDesc,items,item,,,"After being stunned by the Undertaker, you wake up as naked as the day you were born with nothing but an old leather holdall bulging at the seams and a rusty old minibike. An eery electric shield protected the holdall and minibike from scavengers and acts as starter kit to help you begin again. This will ease you into the challenge of a Snufkin Party Plus server and set you back on your path."
